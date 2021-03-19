@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>{{id}}</p>
+    <p>2</p>
   </div>
 </template>
 <script>
