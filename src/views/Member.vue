@@ -1,7 +1,5 @@
 <template>
-  <div class="about">
-    <router-link to="/">Home</router-link>|
-    <router-link to="/member">About</router-link>
+  <div>
     <p>{{id}}</p>
   </div>
 </template>
